@@ -1,4 +1,5 @@
 # Sayyed AliReza Hashemi - Flutter Developer Profile
+My Email: Sa.Hashemi2@gmail.com
 
 A mobile app showcasing my contact information and professional details, built with Flutter.
 Features
@@ -14,17 +15,11 @@ If you intend for others to run the app locally, include these steps:
 Ensure you have Flutter installed on your system. Refer to the official guide for instructions: https://docs.flutter.dev/get-started/install
 
 ### Clone the Repository:
-Bash
-git clone https://github.com/HashemiAlireza/Flutter/
-
-Replace your-username with your GitHub username and your-repository-name with the actual name of your repository.
+$ git clone https://github.com/HashemiAlireza/Personal_Card
 
 ### Run the App:
 Navigate to the project directory:
-Bash
-cd your-repository-name
-
+$ cd Personal_Card
 
 ### Run the app using the following command:
-Bash
-flutter run
+$ flutter run
